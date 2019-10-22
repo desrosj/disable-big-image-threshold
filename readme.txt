@@ -23,11 +23,6 @@ This plugin disables the "BIG" image threshold and preserves the true originally
 
 For more information on the improvements to image processing in WordPress 5.3, check out these [developer](https://make.wordpress.org/core/2019/10/09/introducing-handling-of-big-images-in-wordpress-5-3/) [notes](https://make.wordpress.org/core/2019/10/11/updates-to-image-processing-in-wordpress-5-3/) on the [Making WordPress Core blog](https://make.wordpress.org/core/).
 
-
-Here's a link to [WordPress](https://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-
 == Installation ==
 
 1. Upload this plugin to the `/wp-content/plugins/` directory
